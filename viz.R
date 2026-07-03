@@ -14,5 +14,3 @@ penguins %>%
   geom_histogram()
 
 
-sum(1+5)
-
