@@ -6,7 +6,7 @@ install.packages("palmerpenguins")
 library(palmerpenguins)
 
 
-seq(5)
+seq(7)
 
 
 penguins %>%
